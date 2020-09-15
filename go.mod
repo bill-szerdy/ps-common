@@ -1,4 +1,4 @@
-module github.com/PriceSpider-NeuIntel/ps-common
+module github.com/bill-szerdy/ps-common
 
 go 1.15
 
